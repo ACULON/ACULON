@@ -28,9 +28,10 @@
   [![GITHUB ELANKEY ;; ART.png](https://file.garden/ZxjQjGQBgH_y3H-n/weghgtefd.png)](https://file.garden/ZxjQjGQBgH_y3H-n/weghgtefd.png)
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/uhokfa.gif" height="18">
+  <img src="https://files.catbox.moe/uhokfa.gif" height="18" style="vertical-align: middle;">
   $${\color{#f0f0f0}\text{ ELAN }}$$
   $${\color{#484848}\text{ ... }}$$
-  $${\color{#888888}\text{ HE / HIM }}$$
- <img src="https://files.catbox.moe/j29xph.png" height="20">
+  $${\color{#888888}\text{ HE / HIM}}$$
+  ㅤ<img src="https://files.catbox.moe/j29xph.png" height="20" style="vertical-align: middle;">
 </p>
+
