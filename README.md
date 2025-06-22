@@ -32,10 +32,5 @@
   $${\color{#f0f0f0}\text{ ELAN }}$$
   $${\color{#484848}\text{ ... }}$$
   $${\color{#888888}\text{ HE / HIM }}$$
-  ──
- ㅤ<img src="https://files.catbox.moe/j29xph.png" height="20">
-<img src="https://files.catbox.moe/oj2fux.png" height="20">
-</p>
-<p align="center">
-  $${\color{#888888} \textit{Click\ on\ the\ icons\ to\ go\ to\ my\ links.}}$$
+ <img src="https://files.catbox.moe/j29xph.png" height="20">
 </p>
